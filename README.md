@@ -22,6 +22,8 @@
 * Ставим pip (утилиту для управления пакетами python): https://packaging.python.org/tutorials/installing-packages/
 * Способы поставить себе Jupyter (jupyterlab): https://jupyter.org/install
 * PyCharm: https://www.jetbrains.com/pycharm/download/
+* Git tutorial 1: https://learngitbranching.js.org/
+* Git tutorial 2: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 * GitHub (создавайте себе приватные репозитории, давайте доступ persdep): https://github.com/
 * GitHub student pack: https://education.github.com/pack
 * Рейтинг(и) языков программирования (и вообще можно глянуть что такое IEEE): https://spectrum.ieee.org/top-programming-languages
