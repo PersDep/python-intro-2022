@@ -1,21 +1,12 @@
 # Интеллектуальный анализ данных
 
-Репозиторий с материалами курса по введению в программирование на Python для майнора "Интеллектуальный анализ данных". ИАД-8, ПИ ФКН
+Репозиторий с материалами курса по введению в программирование на Python для майнора "Интеллектуальный анализ данных". ИАД-10
 
 ## Домашние задания на бонусный балл
 
 Домашние задания, выдаваемые через этот репозиторий, оцениваются на бонусные баллы.
 
-* [Задание 1.](https://github.com/PersDep/python-intro-2021/blob/main/HW01-basics-and-collections.ipynb) Дедлайн: 22.09.2021 16:00
-* [Задание 2.](https://github.com/PersDep/python-intro-2021/blob/main/HW02-collections-and-functions.ipynb) Дедлайн: 29.09.2021 16:00
-* [Задание 3.](https://github.com/PersDep/python-intro-2021/blob/main/HW03-OOP-funcs.ipynb) Дедлайн: 06.10.2021 16:00
-* [Задание 4.](https://github.com/PersDep/python-intro-2021/blob/main/HW04-OOP+.ipynb) Дедлайн: 13.10.2021 16:00
-* [Задание 5.](https://github.com/PersDep/python-intro-2021/blob/main/HW05-OOP++-and-exceptions.ipynb) Дедлайн: 27.10.2021 16:00
-* [Задание 6.](https://github.com/PersDep/python-intro-2021/blob/main/HW06-iterators.ipynb) Дедлайн: 03.11.2021 16:00
-* [Задание 7.](https://github.com/PersDep/python-intro-2021/blob/main/HW07-generators.ipynb) Дедлайн: 17.11.2021 16:00
-* [Задание 8.](https://github.com/PersDep/python-intro-2021/blob/main/HW08-iterator-ast.ipynb) Дедлайн: 24.11.2021 16:00
-* [Задание 9.](https://github.com/PersDep/python-intro-2021/blob/main/HW09-collections-datetime.ipynb) Дедлайн: 01.12.2021 16:00
-* [Задание 10.](https://github.com/PersDep/python-intro-2021/blob/main/HW10-async.ipynb) Дедлайн: 08.12.2021 16:00
+* [Задание 1.](https://github.com/PersDep/python-intro-2022/blob/main/HW01-basics-and-collections.ipynb) Дедлайн: не определён
 
 ## Полезные ссылки
 
