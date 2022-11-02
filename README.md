@@ -6,7 +6,8 @@
 
 Домашние задания, выдаваемые через этот репозиторий, оцениваются на бонусные баллы.
 
-* [Задание 1.](https://github.com/PersDep/python-intro-2022/blob/main/HW01-basics-and-collections.ipynb) Дедлайн: не определён
+* [Задание 1.](https://github.com/PersDep/python-intro-2022/blob/main/HW01-basics-and-collections.ipynb) Дедлайн: 19.10.2022 в 12:00
+* [Задание 2.](https://github.com/PersDep/python-intro-2022/blob/main/HW02-collections-and-functions.ipynb) Дедлайн: 02.11.2022 в 12:00
 
 ## Полезные ссылки
 
