@@ -8,6 +8,7 @@
 
 * [Задание 1.](https://github.com/PersDep/python-intro-2022/blob/main/HW01-basics-and-collections.ipynb) Дедлайн: 19.10.2022 в 12:00
 * [Задание 2.](https://github.com/PersDep/python-intro-2022/blob/main/HW02-collections-and-functions.ipynb) Дедлайн: 02.11.2022 в 12:00
+* [Задание 3.](https://github.com/PersDep/python-intro-2022/blob/main/HW03-funcs-OOP%2B.ipynb) Дедлайн: 16.11.2022 в 12:00
 
 ## Полезные ссылки
 
