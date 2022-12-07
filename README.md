@@ -34,6 +34,7 @@
 * Hackerrank для тех, кто хочет что-то ещё порешать: https://www.hackerrank.com/domains/python
 * Экосистема вокруг Python: https://github.com/vinta/awesome-python
 * WTF PYTHON: https://github.com/satwikkansal/wtfpython
+* File opening options: https://docs.python.org/3/library/functions.html#open
 * Built-ins: https://docs.python.org/3/library/functions.html
 * Functools: https://docs.python.org/3/library/functools.html
 * Itertools: https://docs.python.org/3/library/itertools.html
